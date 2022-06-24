@@ -1,0 +1,3 @@
+function Test(){
+echo "Dette er en test";
+}
